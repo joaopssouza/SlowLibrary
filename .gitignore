@@ -1,0 +1,7 @@
+# Ignorar o arquivo index.php
+index.php
+
+# Outras regras que você pode ter (exemplo):
+# *.log
+# node_modules/
+# build/
