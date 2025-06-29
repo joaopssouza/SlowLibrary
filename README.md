@@ -1,6 +1,6 @@
 # Slow Library 📚
 
-Sistema de Gerenciamento de Biblioteca desenvolvido com foco educacional e visual simples, ideal para apresentar um preview estático no GitHub Pages.
+Um sistema de gerenciamento de biblioteca com uma interface simples e funcional..
 
 ## 🔎 Descrição
 
@@ -23,3 +23,6 @@ _Não possui integração com banco de dados ou funcionalidades dinâmicas._
 ---
 
 ## 🚀 Como Visualizar
+
+### Link do Preview
+- **[Slow Library](https://joaopssouza.github.io/SlowLibrary/)**
